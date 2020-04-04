@@ -1,0 +1,35 @@
+h1 {
+color: darkmagenta;
+
+}
+
+li {
+color: darkorange;
+
+}
+
+.item28 {
+    color: darkseagreen;
+}
+
+.item19 {
+    color: darkslateblue;
+}
+
+.item27 {
+color: firebrick;
+
+}
+
+p {
+    color: fuchsia;
+}
+
+[contenteditable] {
+color: moccasin;
+border: 1px solid black;
+}
+
+#test {
+color: seagreen;
+}
