@@ -1,0 +1,76 @@
+h1 {
+color: darkmagenta;
+
+}
+
+li {
+color: darkorange;
+
+}
+
+.item28 {
+    color: darkseagreen;
+}
+
+.item19 {
+    color: darkslateblue;
+}
+
+.item27 {
+color: firebrick;
+
+}
+
+p {
+    color: fuchsia;
+}
+
+[contenteditable] {
+color: moccasin;
+border: 1px solid black;
+}
+
+#test {
+color: seagreen;
+}
+
+ .item28 {
+    color: sienna;
+}
+
+ul {
+font-size: 18px;
+text-align: left;
+}
+
+.emphasize a:link {
+    color: yellow;
+}
+
+.emphasize a:visited {
+    color: tomato;
+}
+
+.emphasize a:hover {
+    color: yellowgreen;
+}
+
+.emphasize a:active {
+    color: rgb(40, 40, 148);
+}
+
+.item12 a:link {
+    color: black;
+}
+
+.item12 a:visited {
+    color: crimson;
+}
+
+.item12 a:hover {
+    color: gold;
+}
+
+.item12 a:active {
+    color: indianred;
+}
