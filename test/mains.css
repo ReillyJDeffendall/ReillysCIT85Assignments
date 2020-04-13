@@ -1,0 +1,39 @@
+body {
+    font-size: 20px;
+}
+
+
+h1:first-child {
+    color: crimson;
+    font-style: italic;
+    font-size: 25px;
+}
+
+li:nth-child(odd) {
+    color: steelblue;
+    font-style: oblique;
+}
+
+li:nth-child(even) {
+    color: red;
+    font-style: oblique;
+}
+
+li:nth-child(3) {
+    color: slategrey;
+
+}
+
+li:nth-child(3n+2) {
+    color: cyan;
+}
+
+h2:only-child {
+color: crimson;
+font-style: italic;
+font-size: 25px;
+}
+
+li:last-child {
+color: black ;
+}
