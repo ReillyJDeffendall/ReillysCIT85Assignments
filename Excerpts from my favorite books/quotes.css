@@ -1,0 +1,23 @@
+h1 {
+    color: crimson;
+    font-size: 35px;
+    font-style: italic;
+}
+
+p { 
+   margin: 10px;
+   font-size: 25px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p::first-letter {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    line-height: .5;
+    color: black
+}
+
+p::first-line {
+    color: rgb(41, 41, 41);
+    font-weight: 600;
+}
