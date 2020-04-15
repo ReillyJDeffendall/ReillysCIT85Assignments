@@ -1,0 +1,28 @@
+div p{
+    color: coral;
+    font-family: fantasy;
+    font-size: 20px;
+}
+
+div > p {
+    color: cornflowerblue;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+div ~ p {
+    color: crimson;
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+div + p {
+    color: darkgreen;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    color: tomato;
+    font-style: italic;
+}
