@@ -1,0 +1,50 @@
+html{
+    background-color:ghostwhite;
+
+}
+
+body{
+    width: 55%;
+    margin: 0 auto;
+    background-color:greenyellow;
+    border: 5px solid blue;
+}
+
+img {
+   display: block;
+    border-radius: 100%;
+    border: 5px ridge white;
+    margin: 0 auto;
+    border-color: black;
+}
+
+#wtf {
+    color: cornflowerblue;
+    font-size: 25px;
+}
+
+#bruh {
+    color: cornflowerblue;
+    font-size: 25px;
+    border: dashed cornflowerblue 3px;
+}
+
+div {
+    font-family: sans-serif;
+    border: dashed cornflowerblue 3px
+}
+
+#goodbye {
+    color:cornflowerblue;
+    font-family: sans-serif;
+}
+
+p:nth-child(odd) {
+    font-style: italic;
+    color: cornflowerblue;
+}
+
+p:nth-child(even) {
+    font-style: italic;
+    color: cornflowerblue;
+}
