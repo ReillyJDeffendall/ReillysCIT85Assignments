@@ -1,0 +1,102 @@
+  
+html {
+    background-color: yellow;
+}
+
+div {
+    width: 35px;
+    height: 35px;
+    border: 1px solid rgb(229, 255, 0);
+    border-radius: 10px;
+    background-image: url("../lemon/lemon.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: block;
+    float: right;
+    width: 4%;
+    padding: 5px;
+    display: block;
+    margin: 1px;
+}
+
+img {
+    border: 10px groove orangered;
+    border-radius: 100%;
+}
+
+.lemon1 {
+    display: block;
+}
+
+.lemon2 {
+    display: block;
+}
+
+.lemon3 {
+    display: block;
+}
+
+.lemon4 {
+    display: block;
+}
+
+.lemon5 {
+    display: block;
+}
+
+.lemon6 {
+    display: block;
+}
+
+.lemon7 {
+    display: block;
+}
+
+.lemon8 {
+    display: block;
+}
+
+.lemon9 {
+    display: block;
+}
+
+.lemon10 {
+    display: block;
+}
+
+.lemon11 {
+    display: block;
+}
+
+.lemon12 {
+    display: block;
+}
+
+.lemon13 {
+    display: block;
+}
+
+.lemon14 {
+    display: block;
+}
+
+.lemon15 {
+    display: block;
+}
+
+.lemon16 {
+    display: block;
+}
+
+.lemon17 {
+    display: block;
+}
+
+.lemon19 {
+    display: block;
+}
+
+.lemon20 {
+   display: block;
+}
+
